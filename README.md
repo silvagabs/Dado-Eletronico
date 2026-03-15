@@ -7,7 +7,6 @@ Projeto de um dado eletrônico usando Arduino no Tinkercad.
 - 6 LEDs
 - 6 resistores 220Ω
 - 1 botão
-- 1 resistor 10kΩ (para o botão, se não usar INPUT_PULLUP)
 
 ## Funcionamento
 Ao apertar o botão, um número aleatório de 1 a 6 é gerado e os LEDs correspondentes acendem.
